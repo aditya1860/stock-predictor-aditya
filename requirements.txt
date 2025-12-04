@@ -1,7 +1,0 @@
-# stable pinned versions that install on Streamlit Cloud
-streamlit==1.37.0
-yfinance==0.2.66
-pandas==2.3.3
-numpy==1.26.4
-scikit-learn==1.2.2
-altair==4.2.2
